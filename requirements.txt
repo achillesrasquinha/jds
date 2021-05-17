@@ -1,0 +1,7 @@
+requests
+grequests
+selenium
+beautifulsoup4
+random-proxies
+fake-useragent
+pipupgrade
